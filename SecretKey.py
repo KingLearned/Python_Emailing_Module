@@ -1,2 +1,2 @@
-EMAIL = 'kinglearned@gmail.com'
-PASSWORD = 'gulfcxotibdiejlr'
+EMAIL = 'youremail@mail.com'
+PASSWORD = 'your-custom-password'

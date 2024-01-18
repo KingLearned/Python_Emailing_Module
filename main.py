@@ -8,11 +8,11 @@ from Message import main_body
 
 # Email configuration
 sender_email = EMAIL
-subject = "FULL-STACK WEB DEVELOPER INTERNSHIP"
+subject = "INVOICE PAYMENT RECEIPT"
 body = main_body()
-attachment_path = "Nelson-C_Resume.pdf"
+attachment_path = "invoice.pdf"
 
-bulk_mails = ['chithomzzy']
+bulk_mails = ['examples@mail.com']
 
 for mails in bulk_mails:
     receiver_email = mails
